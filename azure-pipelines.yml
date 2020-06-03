@@ -13,6 +13,7 @@ schedules:
     - release
   always: false 
 
+
 stages:
 - stage: 'Build'
   displayName: 'Build the web application'
